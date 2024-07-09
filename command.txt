@@ -1,0 +1,1 @@
+autosub generate -i "/Users/MichealOlawale/Documents/Beentos/auto-subtitle/test1.mkv"  -o "/Users/MichealOlawale/Documents/Beentos/auto-subtitle/out.mp4"
